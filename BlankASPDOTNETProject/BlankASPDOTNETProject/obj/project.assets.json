@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salah\\Desktop\\BlankASPDOTNETProject\\BlankASPDOTNETProject\\BlankASPDOTNETProject.csproj",
+      "projectUniqueName": "C:\\Users\\salah\\Desktop\\GitPractice\\BlankASPDOTNETProject\\BlankASPDOTNETProject\\BlankASPDOTNETProject.csproj",
       "projectName": "BlankASPDOTNETProject",
-      "projectPath": "C:\\Users\\salah\\Desktop\\BlankASPDOTNETProject\\BlankASPDOTNETProject\\BlankASPDOTNETProject.csproj",
+      "projectPath": "C:\\Users\\salah\\Desktop\\GitPractice\\BlankASPDOTNETProject\\BlankASPDOTNETProject\\BlankASPDOTNETProject.csproj",
       "packagesPath": "C:\\Users\\salah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salah\\Desktop\\BlankASPDOTNETProject\\BlankASPDOTNETProject\\obj\\",
+      "outputPath": "C:\\Users\\salah\\Desktop\\GitPractice\\BlankASPDOTNETProject\\BlankASPDOTNETProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
